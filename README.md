@@ -8,7 +8,6 @@ TelemetryApp is a WPF-based desktop application designed for visualizing real-ti
 
 - **Real-time Data Visualization**: Uses LiveCharts to display telemetry data in various chart formats.
 - **SignalR Integration**: Connects to SignalR hubs for receiving live telemetry updates.
-- **MVVM Architecture**: Designed with the Model-View-ViewModel (MVVM) pattern for better separation of concerns and maintainability.
 - **Customizable UI**: Modify the XAML files for a tailored user interface.
 
 ## Getting Started
